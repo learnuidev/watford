@@ -1,6 +1,6 @@
-<h1 id="top" align="center"> Edd Webster StatsBomb Pro Services Analyst Submission </h1>
+<h1 id="top" align="center"> Edd Webster Watford Data Science Submission </h1>
 
-This repository is the code and analysis submitted by [Edd Webster](https://twitter.com/eddwebster) for the [StatsBomb Pro Services Analyst](https://statsbomb.bamboohr.com/jobs/view.php?id=84) technical assignment.
+This repository is the code and analysis submitted by [Edd Webster](https://twitter.com/eddwebster) for the [Watford Data Scientist](https://www.watfordfc.com/news/club/careers-data-scientist-first-team) technical challenge.
 
 <p align="center">
   <a href="https://statsbomb.com/"><img src="img/logos/stats-bomb-logo.png" alt="StatsBomb" width="43%" style="vertical-align:middle"></a>
@@ -13,7 +13,7 @@ This repository is the code and analysis submitted by [Edd Webster](https://twit
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddwebster)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/eddwebster)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/profile/edd.webster)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=eddwebster.statsbomb)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=eddwebster.watford)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
 
@@ -67,45 +67,33 @@ The contents of this GitHub repository is organised as the following:
     │
     ├── data
     │   │
-    │   ├── open-data
+    │   ├── second_spectrum
     │   │   │
-    │   │   ├── data
-    │   │   │   ├── events
-    │   │   │   ├── lineups
-    │   │   │   ├── matches
-    │   │   │   ├── three-sixty
-    │   │   │   └── competitions.json
+    │   │   ├── raw
+    │   │   │   ├── 1
+    │   │   │   ├── 2
+    │   │   │   └── 3
     │   │   │
-    │   │   ├── doc
-    │   │   ├── img
-    │   │   ├── LICENSE.pdf
-    │   │   └── README.md
-    │   │
-    │   ├── raw
-    │   │   ├── combined
-    │   │   ├── competitions
-    │   │   ├── events
-    │   │   ├── lineups
-    │   │   ├── matches
-    │   │   ├── obv
-    │   │   ├── tactics
-    │   │   └── three-sixty
-    │   │
-    │   └── engineered
-    │       ├── combined
-    │       ├── events
-    │       ├── lineups
-    │       ├── matches
-    │       └── tactics
+    │   │   └── engineered
+    │   │       ├── 1
+    │   │       ├── 2
+    │   │       └── 3
+    │   │ 
+    │   └── second_spectrum
+    │       │
+    │       ├── raw
+    │       │   ├── 1
+    │       │   ├── 2
+    │       │   └── 3
+    │       │
+    │       └── engineered
+    │           ├── 1
+    │           ├── 2
+    │           └── 3
     │
     ├── docs
-    │   ├── Open Data 360 Frames v1.0.0.pdf
-    │   ├── Open Data Competitions v2.0.0.pdf
-    │   ├── Open Data Events v4.0.0.pdf
-    │   ├── Open Data Lineups v2.0.0.pdf
-    │   ├── Open Data Matches v3.0.0.pdf
-    │   ├── StatsBomb Open Data Specification v1.1.pdf
-    │   └── technical_test.pdf
+    │   ├── 1
+    │   └── 2
     │
     ├── gif
     │   └── fig
@@ -116,15 +104,14 @@ The contents of this GitHub repository is organised as the following:
     │   └── logos
     │ 
     ├── notebooks
-    │   ├── StatsBomb Data Engineering.ipynb
-    │   ├── StatsBomb EURO 2020 Data Visualisation.ipynb
-    │   └── StatsBomb EURO 2020 Data Analysis.ipynb
+    │   ├── 1
+    │   └── 2
     │
     ├── scripts
-    │   └── WebsterViz.py
+    │   └── 1.py
     │
     └── videos
-        └── bonucci_its_coming_to_rome.mp4
+        └── 1
 
 
 <a href="#table-of-contents">Back to Contents</a>
@@ -164,13 +151,9 @@ Due to the 100mb file size limitation in GitHub, all datasets used in this analy
 <h2 id="documentation"> :page_facing_up: Documentation</h2>
 
 All documentation saved locally in the [`docs`](https://github.com/eddwebster/statsbomb/tree/main/docs) subfolder, including:
-*    [The Technical Test Brief](https://github.com/eddwebster/statsbomb/blob/main/docs/technical_test.pdf); and
-*    [StatsBomb Open Data Documentation](https://github.com/statsbomb/open-data/tree/master/doc):
-     +    [Open Data Competitions v2.0.0](https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20Competitions%20v2.0.0.pdf).pdf describes the JSON format of the competitions.json file in the data.
-     +    [Open Data Events v4.0.0](https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20Events%20v4.0.0.pdf).pdf describes the format of the event JSON files in the data/events/ directory.
-     +    [Open Data Lineups v2.0.0](https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20Lineups%20v2.0.0.pdf).pdf describes the format of the lineup JSON files in the data/lineups/ folder.
-     +    [Open Data Matches v3.0.0](https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20Matches%20v3.0.0.pdf).pdf describes the format of the match listing JSON files in the data/matches/ folder.
-     +    [Open Data 360 Frames v1.0.0.pdf](https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20360%20Frames%20v1.0.0.pdf) document describes the JSON format for StatsBomb’s open 360 data.
-     +    [StatsBomb Open Data Specification v1.1](https://github.com/statsbomb/open-data/blob/master/doc/StatsBomb%20Open%20Data%20Specification%20v1.1.pdf).pdf gives detail about the meaning an attributes of specific events in the data.
+*    1
+*    2
+*    3
+
 
 <a href="#table-of-contents">Back to Contents</a>
