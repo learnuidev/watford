@@ -15,6 +15,8 @@ This repository is the code and analysis submitted by [Edd Webster](https://twit
 [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/profile/edd.webster)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=eddwebster.watford)
 
+Check out my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> GitHub repo for the full collection of football analytics projects, data, and analysis that I have created.
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
 
 
