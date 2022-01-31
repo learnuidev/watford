@@ -32,6 +32,7 @@ Check out my <a href="https://github.com/eddwebster/football_analytics" target="
     <li><a href="#repository-structure">Repository Structure</a></li>
     <li><a href="#notebooks">Notebooks</a></li>
     <li><a href="#data-sources">Data Sources</a></li>
+    <li><a href="#references">References</a></li>
   </ol>
 </details>
 
