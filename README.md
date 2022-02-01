@@ -210,7 +210,7 @@ For code used to produce the analysis of this technical challenge, see the [`not
 <!-- DATA SOURCES -->
 <h2 id="data-sources"> :floppy_disk: Data Sources</h2>
 
-Due to the 100mb file size limitation in GitHub, all datasets used in this analysis have been exported and made publicly available to view and download in Google Drive at the following [[link](https://drive.google.com/drive/folders/1FJLvtQFNUF-SaQc1_VwNsB26cGRplqGf?usp=sharing)]. Some of the files, including the OBV values provided, are available in the [`data`](https://github.com/eddwebster/watford/tree/main/data) folder of this repository.
+Due to the 100mb file size limitation in GitHub, all datasets used in this analysis have been exported and made publicly available to view and download in Google Drive at the following [[link](https://drive.google.com/drive/folders/1FJLvtQFNUF-SaQc1_VwNsB26cGRplqGf?usp=sharing)]. Some of the files are available in the [`data`](https://github.com/eddwebster/watford/tree/main/data) folder of this repository.
 
 
 <a href="#table-of-contents">Back to Contents</a>
