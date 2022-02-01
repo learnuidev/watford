@@ -67,7 +67,7 @@ The code in this repository uses the following libraries:
 
 The contents of this GitHub repository is organised as the following:
 
-    statsbomb github repository
+    watford github repository
     │
     ├── data
     │   │
