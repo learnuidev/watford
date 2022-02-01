@@ -195,11 +195,11 @@ The contents of this GitHub repository is organised as the following:
 <!-- NOTEBOOKS -->
 <h2 id="notebooks"> :notebook_with_decorative_cover: Notebooks</h2>
 
-For code used to produce the analysis of this technical challenge, see the [`notebooks`](https://github.com/eddwebster/statsbomb/tree/main/notebooks) subfolder, in which the workflow is divided into the following:
-*    [Data Engineering](https://github.com/eddwebster/statsbomb/blob/main/notebooks/StatsBomb%20Data%20Engineering.ipynb)
-*    [Data Visualisation](https://github.com/eddwebster/statsbomb/blob/main/notebooks/StatsBomb%20EURO%202020%20Data%20Visualisation.ipynb)
-*    [Data Analysis](https://github.com/eddwebster/statsbomb/blob/main/notebooks/StatsBomb%20EURO%202020%20Data%20Analysis.ipynb) - a short analytical piece that includes some data visualisations created using the [`WebsterViz.py`](https://github.com/eddwebster/statsbomb/blob/main/scripts/WebsterViz.py) script
-
+For code used to produce the analysis of this technical challenge, see the [`notebooks`](https://github.com/eddwebster/watford/tree/main/notebooks) subfolder, in which the workflow is divided into the following:
+*    [Data Parsing]()
+*    [Data Engineering]()
+*    [Data Modeling]()
+*    [Data Analysis]()
 
 <a href="#table-of-contents">Back to Contents</a>
 
@@ -210,7 +210,7 @@ For code used to produce the analysis of this technical challenge, see the [`not
 <!-- DATA SOURCES -->
 <h2 id="data-sources"> :floppy_disk: Data Sources</h2>
 
-Due to the 100mb file size limitation in GitHub, all datasets used in this analysis have been exported and made publicly available to view and download in Google Drive at the following [[link](https://drive.google.com/drive/folders/1FJLvtQFNUF-SaQc1_VwNsB26cGRplqGf?usp=sharing)]. Some of the files, including the OBV values provided, are available in the [`data`](https://github.com/eddwebster/statsbomb/tree/main/data) folder of this repository.
+Due to the 100mb file size limitation in GitHub, all datasets used in this analysis have been exported and made publicly available to view and download in Google Drive at the following [[link](https://drive.google.com/drive/folders/1FJLvtQFNUF-SaQc1_VwNsB26cGRplqGf?usp=sharing)]. Some of the files, including the OBV values provided, are available in the [`data`](https://github.com/eddwebster/watford/tree/main/data) folder of this repository.
 
 
 <a href="#table-of-contents">Back to Contents</a>
@@ -222,7 +222,7 @@ Due to the 100mb file size limitation in GitHub, all datasets used in this analy
 <!-- DOCUMENTATION -->
 <h2 id="documentation"> :page_facing_up: Documentation</h2>
 
-All documentation saved locally in the [`docs`](https://github.com/eddwebster/statsbomb/tree/main/docs) subfolder, including:
+All documentation saved locally in the [`docs`]() subfolder, including:
 *    1
 *    2
 *    3
