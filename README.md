@@ -71,29 +71,97 @@ The contents of this GitHub repository is organised as the following:
     │
     ├── data
     │   │
-    │   ├── second_spectrum
-    │   │   │
+    │   ├── opta
     │   │   ├── raw
-    │   │   │   ├── 1
-    │   │   │   ├── 2
-    │   │   │   └── 3
+    │   │   │   │
+    │   │   │   ├── F7
+    │   │   │   │   ├── srml-8-2021-f2210324-matchresults-players.csv
+    │   │   │   │   ├── srml-8-2021-f2210324-matchresults-bookings.csv
+    │   │   │   │   ├── srml-8-2021-f2210334-matchresults-bookings.csv
+    │   │   │   │   ├── srml-8-2021-f2210324-matchresults-goals.csv
+    │   │   │   │   ├── srml-8-2021-f2210324-matchresults-gamedata.csv
+    │   │   │   │   ├── srml-8-2021-f2210334-matchresults-gamedata.csv
+    │   │   │   │   ├── srml-8-2021-f2210334-matchresults-goals.csv
+    │   │   │   │   ├── srml-8-2021-f2210334-matchresults-players.csv
+    │   │   │   │   ├── srml-8-2021-f2210324-matchresults.xml
+    │   │   │   │   └── srml-8-2021-f2210334-matchresults.xml
+    │   │   │   │   
+    │   │   │   └── F24
+    │   │   │       ├── f24-8-2021-2210324-eventdetails.csv
+    │   │   │       ├── f24-8-2021-2210324-eventdetails.xml
+    │   │   │       ├── f24-8-2021-2210334-eventdetails.csv
+    │   │   │       └── f24-8-2021-2210334-eventdetails.xml
+    │   │   │
+    │   │   ├── epl_shots_data.csv
+    │   │   │
+    │   │   ├── engineered
+    │   │   │   │
+    │   │   │   ├── F7
+    │   │   │   │   ├── srml-8-2021-f2210324-matchresults-players.csv
+    │   │   │   │   ├── srml-8-2021-f2210324-matchresults-bookings.csv
+    │   │   │   │   ├── srml-8-2021-f2210334-matchresults-bookings.csv
+    │   │   │   │   ├── srml-8-2021-f2210324-matchresults-goals.csv
+    │   │   │   │   ├── srml-8-2021-f2210324-matchresults-gamedata.csv
+    │   │   │   │   ├── srml-8-2021-f2210334-matchresults-gamedata.csv
+    │   │   │   │   ├── srml-8-2021-f2210334-matchresults-goals.csv
+    │   │   │   │   ├── srml-8-2021-f2210334-matchresults-players.csv
+    │   │   │   │   ├── srml-8-2021-f2210324-matchresults.xml
+    │   │   │   │   └── srml-8-2021-f2210334-matchresults.xml
+    │   │   │   │   
+    │   │   │   └── F24
+    │   │   │       ├── f24-8-2021-2210324-eventdetails.csv
+    │   │   │       ├── f24-8-2021-2210324-eventdetails.xml
+    │   │   │       ├── f24-8-2021-2210334-eventdetails.csv
+    │   │   │       └── f24-8-2021-2210334-eventdetails.xml
+    │   │   │
+    │   │   ├── opta_event_types.csv
+    │   │   └── opta_qualifier_types.csv
+    │   │
+    │   ├── second_spectrum
+    │   │   ├── raw
+    │   │   │   │
+    │   │   │   ├── data
+    │   │   │   │   ├── g2210324_SecondSpectrum_Metadata_Players.csv
+    │   │   │   │   ├── g2210324_SecondSpectrum_Data.jsonl
+    │   │   │   │   ├── g2210324_SecondSpectrum_Data.xml
+    │   │   │   │   ├── g2210334_SecondSpectrum_Data.csv
+    │   │   │   │   ├── g2210334_SecondSpectrum_Data.jsonl
+    │   │   │   │   └── g2210334_SecondSpectrum_Data.xml
+    │   │   │   │   
+    │   │   │   └── metadata
+    │   │   │       ├── g2210324_SecondSpectrum_Metadata_Players.csv
+    │   │   │       ├── g2210324_SecondSpectrum_Metadata.json
+    │   │   │       ├── g2210324_SecondSpectrum_Metadata.xml
+    │   │   │       ├── g2210334_SecondSpectrum_Metadata_Players.csv
+    │   │   │       ├── g2210334_SecondSpectrum_Metadata.json
+    │   │   │       └── g2210334_SecondSpectrum_Metadata.xml
     │   │   │
     │   │   └── engineered
-    │   │       ├── 1
-    │   │       ├── 2
-    │   │       └── 3
+    │   │       │
+    │   │       ├── data
+    │   │       │   ├── g2210324_SecondSpectrum_Trackingdata_Away.csv
+    │   │       │   ├── g2210324_SecondSpectrum_Trackingdata_Home.csv
+    │   │       │   ├── g2210334_SecondSpectrum_Trackingdata_Away.csv
+    │   │       │   └── g2210334_SecondSpectrum_Trackingdata_Home.csv
+    │   │       │   
+    │   │       └── physical
+    │   │           ├── physical_report_data_merged.csv
+    │   │           ├── physical_report_data_crystal_palace_leicester_city_Home.csv
+    │   │           └── physical_report_data_crystal_palace_brighton_and_hove_albion_Home.csv
+    │   │
+    │   ├── physical
+    │   │   │
+    │   │   ├── raw
+    │   │   │   └── Physical Output.csv
+    │   │   │
+    │   │   └── engineered
+    │   │       ├── Physical Output Pivoted.csv
+    │   │       └── Physical Output.csv
     │   │ 
-    │   └── second_spectrum
+    │   └── reference
     │       │
-    │       ├── raw
-    │       │   ├── 1
-    │       │   ├── 2
-    │       │   └── 3
-    │       │
-    │       └── engineered
-    │           ├── 1
-    │           ├── 2
-    │           └── 3
+    │       └── epv
+    │           └── EPV_grid.csv
     │
     ├── docs
     │   ├── 1
