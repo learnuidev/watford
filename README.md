@@ -324,7 +324,7 @@ All documentation saved locally in the [`docs`](https://github.com/eddwebster/wa
 
 
 <!-- RESOURCES -->
-<h2 id="resources"> :page_facing_up: RESOURCES</h2>
+<h2 id="resources"> :page_facing_up: Resources</h2>
 
 Links to resources that helped create this piece of analysis:
 *    
