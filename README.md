@@ -270,10 +270,10 @@ The contents of this GitHub repository is organised as the following:
 <h2 id="notebooks"> :notebook_with_decorative_cover: Notebooks</h2>
 
 For code used to produce the analysis of this technical challenge, see the [`notebooks`](https://github.com/eddwebster/watford/tree/main/notebooks) subfolder, in which the workflow is divided into the following:
-*    [Data Parsing]()
-*    [Data Engineering]()
-*    [Data Modeling]()
-*    [Data Analysis]()
+*    [Data Parsing](https://github.com/eddwebster/watford/tree/main/notebooks/1_data_parsing)
+*    [Data Engineering](https://github.com/eddwebster/watford/tree/main/notebooks/2_data_engineering)
+*    [Data Modeling](https://github.com/eddwebster/watford/tree/main/notebooks/3_data_modeling)
+*    [Data Analysis](https://github.com/eddwebster/watford/tree/main/notebooks/4_data_analysis)
 
 <a href="#table-of-contents">Back to Contents</a>
 
@@ -296,10 +296,9 @@ Due to the 100mb file size limitation in GitHub, all datasets used in this analy
 <!-- DOCUMENTATION -->
 <h2 id="documentation"> :page_facing_up: Documentation</h2>
 
-All documentation saved locally in the [`docs`]() subfolder, including:
-*    1
-*    2
-*    3
+All documentation saved locally in the [`docs`](https://github.com/eddwebster/watford/tree/main/docs) subfolder, including:
+*    
+*    
 
 
 <a href="#table-of-contents">Back to Contents</a>
