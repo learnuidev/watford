@@ -19,7 +19,7 @@ This repository is the code and analysis submitted by [Edd Webster](https://twit
 Check out my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> GitHub repo for the full collection of football analytics projects, data, and analysis that I have created.
 
 <p align="center">
-  <a href="https://statsbomb.com/"><img src="gif/fig/second_spectrum/combined_pitch_control_video_clip_first_goal_cry_lei_46055_46305.gif" alt="Pitch Control Video" width="25%" style="vertical-align:middle"></a>
+  <a href="https://statsbomb.com/"><img src="gif/fig/second_spectrum/combined_pitch_control_video_clip_first_goal_cry_lei_46055_46305.gif" alt="Pitch Control Video" width="50%" style="vertical-align:middle"></a>
 </p>
 
   
