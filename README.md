@@ -36,6 +36,7 @@ Check out my <a href="https://github.com/eddwebster/football_analytics" target="
     <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#repository-structure">Repository Structure</a></li>
     <li><a href="#notebooks">Notebooks</a></li>
+    <li><a href="#data-visualisation-and-tableau-dashboards">Data Visualisation and Tableau Dashboards</a></li>
     <li><a href="#data-sources">Data Sources</a></li>
     <li><a href="#resources">Resources</a></li>
   </ol>
@@ -274,6 +275,21 @@ For code used to produce the analysis of this technical challenge, see the [`not
 *    [Data Engineering](https://github.com/eddwebster/watford/tree/main/notebooks/2_data_engineering)
 *    [Data Modeling](https://github.com/eddwebster/watford/tree/main/notebooks/3_data_modeling)
 *    [Data Analysis](https://github.com/eddwebster/watford/tree/main/notebooks/4_data_analysis)
+
+<a href="#table-of-contents">Back to Contents</a>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
+
+
+<!-- DATA VISUALISATION AND TABLEAU DASHBOARDS -->
+<h2 id="data-visualisation-and-tableau-dashboards"> :bar_chart: Data Visualisation and Tableau Dashboards</h2>
+
+For Tableau dashboards produced using the data engineered in the notebooks in this repository, please see my Tableau Public profile: [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster).
+
+The two workbooks created for this analysis:
+*    [Edd Webster Watford F.C. - Crystal Palace Analysis and Dashboard](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-CrystalPalaceAnalysisandDashboard/SquadListDashboard-BarCharts)
+*    [Edd Webster Watford F.C. - Physical Data Analysis and Dashboards](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-PhysicalDataAnalysisandDashboards/PhysicalDataAnalysisOff-the-BallTotalDistancePlayerLevelDashboard)
 
 <a href="#table-of-contents">Back to Contents</a>
 
