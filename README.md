@@ -291,6 +291,38 @@ The two workbooks created for this analysis:
 *    [Edd Webster Watford F.C. - Crystal Palace Analysis and Dashboard](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-CrystalPalaceAnalysisandDashboard/SquadListDashboard-BarCharts)
 *    [Edd Webster Watford F.C. - Physical Data Analysis and Dashboards](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-PhysicalDataAnalysisandDashboards/PhysicalDataAnalysisOff-the-BallTotalDistancePlayerLevelDashboard)
 
+Links to all the individual dashboards, within these two workbooks are:
+
+
+*Crystal Palace Opposition Analysis:*
+*    [Form Guide](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-CrystalPalaceAnalysisandDashboard/FormGuideDashboard?publish=yes)
+*    [Squad List](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-CrystalPalaceAnalysisandDashboard/SquadListDashboard)
+*    [xG Analysis Dashboard](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-CrystalPalaceAnalysisandDashboard/xGAnalysisDashboard)
+*    [Player Chance Creation Analysis](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-CrystalPalaceAnalysisandDashboard/PlayerChanceCreationAnalysisDashboard)
+*    [Team Chance Creation Analysis](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-CrystalPalaceAnalysisandDashboard/TeamChanceCreationAnalysisDashboard)
+*    [Average Player Position](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-CrystalPalaceAnalysisandDashboard/AveragePlayerPositionDashboard)
+*    [xT Analysis](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-CrystalPalaceAnalysisandDashboard/xTAnalysisDashboard)
+*    [Touch Heat Map](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-CrystalPalaceAnalysisandDashboard/TouchMapDashboard)
+*    [Passing Network](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-CrystalPalaceAnalysisandDashboard/PassingNetworkDashboard)
+*    [Passing Analysis](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-CrystalPalaceAnalysisandDashboard/PassingAnalysisDashboard)
+*    [Formation Analysis](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-CrystalPalaceAnalysisandDashboard/FormationAnalysisDashboard)
+*    Crystal Palace Physical Reports:
+     +    [Total Distance](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-CrystalPalaceAnalysisandDashboard/PhysicalReportTotalDistanceDashboard)
+     +    [Run Types](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-CrystalPalaceAnalysisandDashboard/PhysicalReportRunTypesDashboard)
+     +    [Run Types per Minute](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-CrystalPalaceAnalysisandDashboard/PhysicalReportRunTypesPerMinuteDashboard)
+     +    [Top Speed](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-CrystalPalaceAnalysisandDashboard/PhysicalReportTopSpeedDashboard)
+
+*Physical Data Analysis:*
+*    [Player Overview](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-PhysicalDataAnalysisandDashboards/PlayerOverviewDashboard)
+*    [Quickest Player](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-PhysicalDataAnalysisandDashboards/QuickestPlayerDashboard)
+*    [Player Run Types](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-PhysicalDataAnalysisandDashboards/PhysicalDataAnalysisRunTypesPlayerLevelDashboard)
+*    [Player Total Distance](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-PhysicalDataAnalysisandDashboards/PhysicalDataAnalysisTotalDistancePlayerLevelDashboard)
+*    [Player High Intensity Distance](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-PhysicalDataAnalysisandDashboards/PhysicalDataAnalysisHighIntensityTotalDistancePlayerLevelDashboard)
+*    [Player Off-the-Ball Distance](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-PhysicalDataAnalysisandDashboards/PhysicalDataAnalysisOff-the-BallTotalDistancePlayerLevelDashboard)
+*    [Team Total Distance](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-PhysicalDataAnalysisandDashboards/PhysicalDataAnalysisTeamADistancebyMatchDashboard)
+*    [Player 5 Min Run Types](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterWatfordF_C_-PhysicalDataAnalysisandDashboards/PhysicalDataAnalysisTotalDistanceper5MinsTotalDistanceRunTypePlayerLevelDashboard)
+
+
 <a href="#table-of-contents">Back to Contents</a>
 
 
