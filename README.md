@@ -69,6 +69,10 @@ The contents of this GitHub repository is organised as the following:
 
     watford github repository
     │
+    ├── dashboards
+    │   ├── Edd Webster Watford F.C. - Crystal Palace Analysis and Dashboard.twbx
+    │   └── Edd Webster Watford F.C. - Physical Data Analysis and Dashboards.twbx
+    │
     ├── data
     │   │
     │   ├── opta
@@ -164,26 +168,91 @@ The contents of this GitHub repository is organised as the following:
     │           └── EPV_grid.csv
     │
     ├── docs
-    │   ├── 1
-    │   └── 2
+    │   └── opta
+    │       ├── F24 documentation - Opta Playground.docx
+    │       ├── f24_appendices.docx
+    │       └── F24_appendices.pdf
     │
     ├── gif
     │   └── fig
+    │       └── second_spectrum
+    │           ├── pitch_control_clip_first_goal_cry_lei_46055_46305.gif
+    │           ├── pitch_control_clip_forth_goal_cry_lei_109630_110030.gif
+    │           ├── pitch_control_clip_second_goal_cry_lei_55125_55375.gif
+    │           ├── pitch_control_clip_third_goal_cry_lei_93980_94280.gif
+    │           ├── tracking_clip_first_goal_cry_lei_46055_46305.gif
+    │           ├── tracking_clip_forth_goal_cry_lei_109630_110080.gif
+    │           ├── tracking_clip_second_goal_cry_lei_55125_55375.gif
+    │           └── tracking_clip_third_goal_cry_lei_93980_94280.gif
     │
     ├── img
-    │   ├── eddwebster
+    │   │
+    │   ├── club_badges
+    │   │   └── premier_league
+    │   │       ├── brighton_and_hove_albion_fc_logo.png
+    │   │       ├── crystal_palace_fc_logo.png
+    │   │       ├── leicester_city_fc_logo.png
+    │   │       ├── watford_fc_logo_small.png
+    │   │       └── watford_fc_logo.png
+    │   │
     │   ├── fig
-    │   └── logos
+    │   │
+    │   ├── logos
+    │   │
+    │   └── pitches
     │ 
     ├── notebooks
-    │   ├── 1
-    │   └── 2
+    │   │
+    │   ├── 1_data_parsing
+    │   │   └── opta
+    │   │       ├── Parse Opta F7.R
+    │   │       └── Parse Opta F24.R
+    │   │
+    │   ├── 2_data_engineering
+    │   │   ├── Opta Data Engineering.ipynb
+    │   │   ├── Physical Data Engineering.ipynb
+    │   │   └── Second Spectrum Data Engineering.ipynb
+    │   │
+    │   ├── 3_data_modeling
+    │   │   └── Training of an Expected Goals Model from Opta Event Data.ipynb
+    │   │
+    │   └── 4_data_analysis
+    │       └── Second Spectrum Data Visualisation.ipynb
+    │
+    ├── models
+    │   └── expected_goals_model_lr.sav
     │
     ├── scripts
-    │   └── 1.py
+    │   └── second_spectrum
+    │       ├── Second_Spectrum_EPV.py
+    │       ├── Second_Spectrum_IO.py
+    │       ├── Second_Spectrum_PitchControl.py
+    │       ├── Second_Spectrum_Velocities.py
+    │       └── Second_Spectrum_Viz.py
+    │
+    ├── slides
+    │   ├── Edd Webster - Watford Football Club Data Science Pack.pptx
+    │   └── Edd Webster - Watford Data Task.pptx
     │
     └── videos
-        └── 1
+            │ 
+            ├─── match_highlights
+            │    ├── 03102021 - Crystal Palace (2) vs. (2) Leicester City.mp4
+            │    └── 27092021 - Crystal Palace (1) vs. (1) Brighton & Hove Albion.mp4
+            │   
+            └── second_spectrum
+                 ├── combined_pitch_control_video_first_goal_cry_lei.mp4
+                 ├── combined_pitch_control_video_forth_goal_cry_lei.mp4
+                 ├── combined_pitch_control_video_second_goal_cry_lei.mp4
+                 ├── combined_pitch_control_video_third_goal_cry_lei.mp4
+                 ├── pitch_control_clip_first_goal_cry_lei_46055_46305.mp4
+                 ├── pitch_control_clip_forth_goal_cry_lei_109630_110030.mp4
+                 ├── pitch_control_clip_second_goal_cry_lei_55125_55375.mp4
+                 ├── pitch_control_clip_third_goal_cry_lei_93980_94280.mp4
+                 ├── tracking_clip_first_goal_cry_lei_46055_46305.mp4
+                 ├── tracking_clip_forth_goal_cry_lei_109630_110080.mp4
+                 ├── tracking_clip_second_goal_cry_lei_55125_55375.mp4
+                 └── tracking_clip_third_goal_cry_lei_93980_94280.mp4   
 
 
 <a href="#table-of-contents">Back to Contents</a>
