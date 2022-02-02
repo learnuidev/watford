@@ -8,6 +8,10 @@ This repository is the code and analysis submitted by [Edd Webster](https://twit
   <a href="https://www.uefa.com/uefaeuro-2020/"><img src="img/logos/opta_sports_logo_small.png" alt="Opta" width="20%" style="vertical-align:middle"></a>
 </p>
 
+<p align="center">
+  <a href="https://statsbomb.com/"><img src="gif/fig/second_spectrum/combined_pitch_control_video_clip_first_goal_cry_lei_46055_46305.gif" alt="Pitch Control Video" width="50%" style="vertical-align:middle"></a>
+</p>
+
 [![Personal Website Badge](https://img.shields.io/badge/eddwebster.com-019FD9?style=flat&logo=web&logoColor=white)](https://www.eddwebster.com/)
 [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:edd.j.webster@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eddwebster)
@@ -17,10 +21,6 @@ This repository is the code and analysis submitted by [Edd Webster](https://twit
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=eddwebster.watford)
 
 Check out my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> GitHub repo for the full collection of football analytics projects, data, and analysis that I have created.
-
-<p align="center">
-  <a href="https://statsbomb.com/"><img src="gif/fig/second_spectrum/combined_pitch_control_video_clip_first_goal_cry_lei_46055_46305.gif" alt="Pitch Control Video" width="50%" style="vertical-align:middle"></a>
-</p>
 
   
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
