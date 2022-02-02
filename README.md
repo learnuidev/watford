@@ -37,7 +37,7 @@ Check out my <a href="https://github.com/eddwebster/football_analytics" target="
     <li><a href="#repository-structure">Repository Structure</a></li>
     <li><a href="#notebooks">Notebooks</a></li>
     <li><a href="#data-sources">Data Sources</a></li>
-    <li><a href="#references">References</a></li>
+    <li><a href="#resources">Resources</a></li>
   </ol>
 </details>
 
@@ -302,3 +302,18 @@ All documentation saved locally in the [`docs`](https://github.com/eddwebster/wa
 
 
 <a href="#table-of-contents">Back to Contents</a>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
+
+
+<!-- RESOURCES -->
+<h2 id="resources"> :page_facing_up: RESOURCES</h2>
+
+Links to resources that helped create this piece of analysis:
+*    
+*    
+
+
+<a href="#table-of-contents">Back to Contents</a>
+
