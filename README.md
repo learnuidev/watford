@@ -54,13 +54,17 @@ Check out my <a href="https://github.com/eddwebster/football_analytics" target="
 
 
 <!--This project is written in Python programming language. <br>-->
-The code in this repository uses the following libraries:
+The code in this repository uses the following Python libraries:
 
-*    [NumPy](https://numpy.org/doc/stable/contents.html)
-*    [pandas](http://pandas.pydata.org/)
-*    [matplotlib](https://matplotlib.org/contents.html?v=20200411155018)
-*    [Seaborn](https://seaborn.pydata.org/)
-*    [SciPy](https://www.scipy.org/)
+*    [`NumPy`](https://numpy.org/doc/stable/contents.html) for multidimensional array computing;
+*    [`pandas`](http://pandas.pydata.org/) for data analysis and manipulation;
+*    [`matplotlib`](https://matplotlib.org/contents.html?v=20200411155018) and [`Seaborn`](https://seaborn.pydata.org/) for data visualisation; and
+*    [`scitkit-learn`](https://scikit-learn.org/stable/index.html) and [`SciPy`](https://www.scipy.org/) for Machine Learning.
+
+
+The following football analytics libraries (Python and R) were also used for the specific use-case of football analytics:
+*    [`FCrSTATS`](https://github.com/FCrSTATS/fc.rstats) by [FC rSTATS](https://twitter.com/FC_rstats) - a package with various functions that help people working with OPTA and ChyronHego data, used in this analysis to parse the Opta F7 and F24 data (see [[link](https://github.com/eddwebster/watford/blob/main/notebooks/1_data_parsing/Opta/Parse%20Opta%20F24.R)] (F7) and [[link](https://github.com/eddwebster/watford/blob/main/notebooks/1_data_parsing/Opta/Parse%20Opta%20F24.R)] (F24))
+*    [`kloppy`](https://github.com/PySport/kloppy) by [Koen Vossen](https://twitter.com/mr_le_fox) (and contributors) - a Python package for standardising tracking and event data, used in this analysis to parse the Second Spectrum tracking data (see [[link](https://github.com/eddwebster/watford/blob/main/notebooks/2_data_engineering/Second%20Spectrum%20Data%20Engineering.ipynb)])
 
 <a href="#table-of-contents">Back to Contents</a>
 
