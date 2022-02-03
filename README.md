@@ -3,9 +3,9 @@
 This repository is the code and analysis submitted by [Edd Webster](https://twitter.com/eddwebster) for the [Watford Data Scientist](https://www.watfordfc.com/news/club/careers-data-scientist-first-team) technical challenge.
 
 <p align="center">
-  <a href="https://statsbomb.com/"><img src="img/club_badges/premier_league/watford_fc_logo_small.png" alt="Watford F.C." width="10%" style="vertical-align:middle"></a>
-  <a href="https://www.uefa.com/uefaeuro-2020/"><img src="img/logos/second_spectrum_logo.jpeg" alt="Second Spectrum" width="45%" style="vertical-align:middle"></a>
-  <a href="https://www.uefa.com/uefaeuro-2020/"><img src="img/logos/opta_sports_logo_small.png" alt="Opta" width="17.5%" style="vertical-align:middle"></a>
+  <a href="https://www.watfordfc.com/"><img src="img/club_badges/premier_league/watford_fc_logo_small.png" alt="Watford F.C." width="10%" style="vertical-align:middle"></a>
+  <a href="m"><img src="img/logos/second_spectrum_logo.jpeg" alt="Second Spectrum" width="45%" style="vertical-align:middle"></a>
+  <a href="https://www.statsperform.com/opta/"><img src="img/logos/opta_sports_logo_small.png" alt="Opta" width="17.5%" style="vertical-align:middle"></a>
 </p>
 
 <p align="center">
