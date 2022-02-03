@@ -275,7 +275,7 @@ The contents of this GitHub repository is organised as the following:
 <!-- SLIDES -->
 <h2 id="slides"> :blue_book: Slides</h2>
 
-The analysis presented for this task can be found in the following Google slides [[link](https://docs.google.com/presentation/d/19DRC_23Od10nqDFkGUpSqALEwGSU1qt_XPRdl7VD9WU/edit?usp=sharing)] and in the [`slides`](https://github.com/eddwebster/watford/tree/main/slides) subfolder (without video for size constraints.
+The analysis presented for this task can be found in the following Google slides [[link](https://docs.google.com/presentation/d/19DRC_23Od10nqDFkGUpSqALEwGSU1qt_XPRdl7VD9WU/edit?usp=sharing)] and in the [`slides`](https://github.com/eddwebster/watford/tree/main/slides) subfolder (without video due to size constraints).
 
 
 <a href="#table-of-contents">Back to Contents</a>
