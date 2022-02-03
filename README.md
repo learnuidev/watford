@@ -35,6 +35,7 @@ Check out my <a href="https://github.com/eddwebster/football_analytics" target="
     <li><a href="#table-of-contents">Table of Contents</a></li>
     <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#repository-structure">Repository Structure</a></li>
+    <li><a href="#slides">Slides</a></li>
     <li><a href="#notebooks">Notebooks</a></li>
     <li><a href="#data-visualisation-and-tableau-dashboards">Data Visualisation and Tableau Dashboards</a></li>
     <li><a href="#data-sources">Data Sources</a></li>
@@ -263,6 +264,18 @@ The contents of this GitHub repository is organised as the following:
                  ├── tracking_clip_forth_goal_cry_lei_109630_110080.mp4
                  ├── tracking_clip_second_goal_cry_lei_55125_55375.mp4
                  └── tracking_clip_third_goal_cry_lei_93980_94280.mp4   
+
+
+<a href="#table-of-contents">Back to Contents</a>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
+
+
+<!-- SLIDES -->
+<h2 id="slides"> :blue_book: Slides</h2>
+
+The analysis presented for this task can be found in the following Google slides [[link](https://docs.google.com/presentation/d/19DRC_23Od10nqDFkGUpSqALEwGSU1qt_XPRdl7VD9WU/edit?usp=sharing)] and in the [`slides`](https://github.com/eddwebster/watford/tree/main/slides) subfolder (without video for size constraints.
 
 
 <a href="#table-of-contents">Back to Contents</a>
