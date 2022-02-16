@@ -223,7 +223,8 @@ The contents of this GitHub repository is organised as the following:
     │   │
     │   ├── 2_data_engineering
     │   │   ├── Opta Data Engineering.ipynb
-    │   │   ├── Physical Data Engineering.ipynb
+    │   │   ├── Physical Data Engineering Part 1.ipynb
+    │   │   ├── Physical Data Engineering Part 2.ipynb
     │   │   └── Second Spectrum Data Engineering.ipynb
     │   │
     │   ├── 3_data_modeling
